@@ -1,0 +1,10 @@
+h1{ color: aqua;}
+h2 {color: rgb(132, 0, 255);}
+
+body { height: 4em;
+       width: 4em;
+       margin-top: 6em;
+       margin-bottom: 6em;
+       margin-right: 4em;
+       margin-left: 4em;
+}

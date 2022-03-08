@@ -1,0 +1,21 @@
+h1{ background-position: 2%;
+background-color: rgb(1, 11, 20);
+font-size: smaller;}
+
+h2{ background-color: aliceblue;
+font-size: larger;}
+
+body{ font-size: medium;
+    margin-top: 20%;
+    margin-bottom: 13%;
+    margin-right: 80%;
+    margin-block-start: 10%;
+    margin-block-end: 59%;
+    position: sticky; 
+    background-color: rgb(44, 172, 231);
+    background-blend-mode: color-burn;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 120%;
+    display: flex;}

@@ -1,0 +1,22 @@
+h1{ font-size: medium; 
+background-color: aliceblue;}
+h3{font-size: medium;
+background-color: aliceblue;}
+
+body{ background-position: 23%;
+      background-color: rgb(189, 128, 55);
+      margin-top: auto;
+      margin-bottom: auto;
+      margin-right: auto;
+      margin-bottom: auto;
+      margin-block-start: auto;
+      margin-block-end: auto;
+      text-align: center;
+      line-height: 60%; 
+      font-size: larger;}
+
+      body{ text-transform: uppercase;}
+
+
+
+

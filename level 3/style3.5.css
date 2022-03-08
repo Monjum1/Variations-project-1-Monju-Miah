@@ -1,0 +1,26 @@
+h1{ color: #edff4e;}
+h2 {color: rgb(234, 250, 91);}
+
+body { height: 14em;
+       width: 14em;
+       margin-top: 7em;
+       margin-bottom: yem;
+       margin-right: 4em;
+       margin-left: 4em;
+       text-align: center;
+}
+
+big{ float: right;}
+big{ position: relative;}
+
+strong{ font-weight: bolder; }
+
+div { padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 8px;}
+
+
+
+

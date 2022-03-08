@@ -1,0 +1,33 @@
+h1{ background-position: 40%;
+    background-color: blanchedalmond;}
+
+h2{ background-position: 20%;
+    background-color: blanchedalmond;}
+
+body{font-size: x-large;
+    margin-top: 400%;
+    margin-bottom: 21%;
+    margin-right: 80%;
+    margin-block-start: 30%;
+    margin-block-end: 79%;
+    position: sticky; 
+    background-color: rgb(150, 231, 44);
+    background-blend-mode: hue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: unset;
+    line-height: 150%;
+    display: flow-root;
+    font-display: fallback;
+    text-transform: unset;}
+
+    big{text-align: center;
+        padding: 40%;
+        padding-top: 40%;
+        padding-bottom: 20%;
+        padding-left: 15%;
+        padding-right: 15%;}
+
+    strong{ text-overflow: ellipsis;
+            font-style: inherit;
+        font-weight: 600;
+    display: grid;}

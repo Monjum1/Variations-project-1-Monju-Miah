@@ -1,0 +1,31 @@
+     header { border-top: 10em;
+        border-right: 6em;
+        border-left: 6em;
+        border-width: 8em;
+        border-radius: 25em;
+        border-color: black;
+        border-style: double;
+        height: 15em;
+        padding-top: 15%;
+        padding-bottom: 15%;
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-top: 20%;
+        margin-bottom: 20%;
+        margin-left: 10%;
+        margin-right: 10%;
+    
+}
+
+h1{ color: brown;}
+h2{ color: rgb(247, 23, 23);}
+
+body { margin-top: 14%;
+       margin-bottom: 14%;
+       margin-left: 25%;
+       margin-right: 25%
+}
+
+body { top: 20%;
+    bottom: 20%;
+}

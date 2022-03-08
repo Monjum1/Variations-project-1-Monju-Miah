@@ -1,0 +1,25 @@
+span { background-color: rgb(253, 5, 5);}
+
+h1{background-position: 12%;
+background-size: contain;
+background-color: aliceblue;}
+
+h2{background-position: 12%;
+    background-size: contain;
+    background-color: rgb(97, 175, 243);}
+
+    body{margin-top: 40%;
+        margin-bottom: auto;
+        margin-right: 20%;
+        margin-bottom: auto;
+        margin-block-start: 10%;
+        margin-block-end: auto;
+        position: static; 
+        background-color: aqua;
+        background-repeat: repeat;
+        font-size: large;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-align: justify;
+        line-height: 80%;
+        display: flexbox;}
+    
